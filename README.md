@@ -1,1 +1,1 @@
-# Excercising-with-CSSBattle.dev
+# excercising-with-CSSBattle.dev
